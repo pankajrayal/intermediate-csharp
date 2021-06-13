@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\AccessModifiersDemo.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\AccessModifiersDemo.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\AccessModifiersDemo.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\AccessModifiersDemo.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\AccessModifiersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\ref\AccessModifiersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\bin\Debug\net5.0\AccessModifiersDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\ref\AccessModifiersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\AccessModifiersDemo\obj\Debug\net5.0\AccessModifiersDemo.genruntimeconfig.cache
