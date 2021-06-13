@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDemo", "ConstructorDemo\ConstructorDemo.csproj", "{86C89F03-E130-4D4D-83DD-79CDDB851B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemo", "MethodsDemo\MethodsDemo.csproj", "{7135D852-7835-4CDE-BCA5-30AC88560D41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{86C89F03-E130-4D4D-83DD-79CDDB851B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86C89F03-E130-4D4D-83DD-79CDDB851B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86C89F03-E130-4D4D-83DD-79CDDB851B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7135D852-7835-4CDE-BCA5-30AC88560D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7135D852-7835-4CDE-BCA5-30AC88560D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7135D852-7835-4CDE-BCA5-30AC88560D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7135D852-7835-4CDE-BCA5-30AC88560D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
