@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\FieldsDemo.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\FieldsDemo.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\FieldsDemo.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\FieldsDemo.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\FieldsDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\ref\FieldsDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\bin\Debug\net5.0\FieldsDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\ref\FieldsDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\FieldsDemo\obj\Debug\net5.0\FieldsDemo.genruntimeconfig.cache
