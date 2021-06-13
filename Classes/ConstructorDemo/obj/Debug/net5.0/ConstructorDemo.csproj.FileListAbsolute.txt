@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ConstructorDemo.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ConstructorDemo.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ConstructorDemo.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ConstructorDemo.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ConstructorDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ref\ConstructorDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\bin\Debug\net5.0\ConstructorDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ref\ConstructorDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\ConstructorDemo\obj\Debug\net5.0\ConstructorDemo.genruntimeconfig.cache

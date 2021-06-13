@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\ref\PropertiesDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\ref\PropertiesDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.genruntimeconfig.cache
