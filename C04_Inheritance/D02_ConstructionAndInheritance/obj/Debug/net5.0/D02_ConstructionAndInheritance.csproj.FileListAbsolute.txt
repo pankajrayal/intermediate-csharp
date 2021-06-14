@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\D02_ConstructionAndInheritance.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\D02_ConstructionAndInheritance.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\D02_ConstructionAndInheritance.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\D02_ConstructionAndInheritance.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\D02_ConstructionAndInheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\ref\D02_ConstructionAndInheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\bin\Debug\net5.0\D02_ConstructionAndInheritance.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\ref\D02_ConstructionAndInheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C04_Inheritance\D02_ConstructionAndInheritance\obj\Debug\net5.0\D02_ConstructionAndInheritance.genruntimeconfig.cache

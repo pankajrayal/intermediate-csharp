@@ -1,4 +1,6 @@
-﻿namespace D01_AccessModifiers
+﻿using Amazon;
+
+namespace D01_AccessModifiers
 {
     public class GoldCustomer : Customer
     {
