@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_ConstructionAndInheritance", "D02_ConstructionAndInheritance\D02_ConstructionAndInheritance.csproj", "{2C5E0D1F-35C8-4E0B-8B06-DDAB483B709A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D03_UpCastingAndDownCasting", "D03_UpCastingAndDownCasting\D03_UpCastingAndDownCasting.csproj", "{4E3A9955-3206-4810-9ABE-890C48F3080F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp", "WPFApp\WPFApp.csproj", "{D7678574-0724-4DC4-8310-C1DC9D886910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2C5E0D1F-35C8-4E0B-8B06-DDAB483B709A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C5E0D1F-35C8-4E0B-8B06-DDAB483B709A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C5E0D1F-35C8-4E0B-8B06-DDAB483B709A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3A9955-3206-4810-9ABE-890C48F3080F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3A9955-3206-4810-9ABE-890C48F3080F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3A9955-3206-4810-9ABE-890C48F3080F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3A9955-3206-4810-9ABE-890C48F3080F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7678574-0724-4DC4-8310-C1DC9D886910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7678574-0724-4DC4-8310-C1DC9D886910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7678574-0724-4DC4-8310-C1DC9D886910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7678574-0724-4DC4-8310-C1DC9D886910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
