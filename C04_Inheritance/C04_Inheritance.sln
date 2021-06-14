@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D03_UpCastingAndDownCasting
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp", "WPFApp\WPFApp.csproj", "{D7678574-0724-4DC4-8310-C1DC9D886910}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D04_BoxingUnboxing", "D04_BoxingUnboxing\D04_BoxingUnboxing.csproj", "{F2F3FEA2-B61D-433B-AA08-DEC5D855721C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D7678574-0724-4DC4-8310-C1DC9D886910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7678574-0724-4DC4-8310-C1DC9D886910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7678574-0724-4DC4-8310-C1DC9D886910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F3FEA2-B61D-433B-AA08-DEC5D855721C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F3FEA2-B61D-433B-AA08-DEC5D855721C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F3FEA2-B61D-433B-AA08-DEC5D855721C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F3FEA2-B61D-433B-AA08-DEC5D855721C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
