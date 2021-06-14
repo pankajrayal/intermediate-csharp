@@ -5,15 +5,17 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{7745FF2D-B9ED-4FAA-8946-3DA11441DC7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDemo", "ConstructorDemo\ConstructorDemo.csproj", "{86C89F03-E130-4D4D-83DD-79CDDB851B93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorDemo", "ConstructorDemo\ConstructorDemo.csproj", "{86C89F03-E130-4D4D-83DD-79CDDB851B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemo", "MethodsDemo\MethodsDemo.csproj", "{7135D852-7835-4CDE-BCA5-30AC88560D41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsDemo", "MethodsDemo\MethodsDemo.csproj", "{7135D852-7835-4CDE-BCA5-30AC88560D41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldsDemo", "FieldsDemo\FieldsDemo.csproj", "{20582634-2112-4081-847B-682217C00491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieldsDemo", "FieldsDemo\FieldsDemo.csproj", "{20582634-2112-4081-847B-682217C00491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{313A9651-3662-4FDA-8F90-3E8F8E7F9A1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{313A9651-3662-4FDA-8F90-3E8F8E7F9A1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{9DD71CB7-5E23-4A10-A7F8-C4FF7D7EE39B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{9DD71CB7-5E23-4A10-A7F8-C4FF7D7EE39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersDemo", "IndexersDemo\IndexersDemo.csproj", "{91171D7F-495E-498A-929A-63A195310DD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9DD71CB7-5E23-4A10-A7F8-C4FF7D7EE39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DD71CB7-5E23-4A10-A7F8-C4FF7D7EE39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DD71CB7-5E23-4A10-A7F8-C4FF7D7EE39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91171D7F-495E-498A-929A-63A195310DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91171D7F-495E-498A-929A-63A195310DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91171D7F-495E-498A-929A-63A195310DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91171D7F-495E-498A-929A-63A195310DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

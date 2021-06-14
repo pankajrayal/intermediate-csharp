@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\IndexersDemo.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\IndexersDemo.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\IndexersDemo.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\IndexersDemo.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\IndexersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\ref\IndexersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\bin\Debug\net5.0\IndexersDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\ref\IndexersDemo.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Classes\IndexersDemo\obj\Debug\net5.0\IndexersDemo.genruntimeconfig.cache
