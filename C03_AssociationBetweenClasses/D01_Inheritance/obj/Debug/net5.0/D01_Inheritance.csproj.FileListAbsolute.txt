@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\D01_Inheritance.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\D01_Inheritance.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\D01_Inheritance.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\D01_Inheritance.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\D01_Inheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\ref\D01_Inheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\bin\Debug\net5.0\D01_Inheritance.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\ref\D01_Inheritance.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C03_AssociationBetweenClasses\D01_Inheritance\obj\Debug\net5.0\D01_Inheritance.genruntimeconfig.cache
