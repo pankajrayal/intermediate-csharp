@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\D02_AbstractClass.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\D02_AbstractClass.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\D02_AbstractClass.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\D02_AbstractClass.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\D02_AbstractClass.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\ref\D02_AbstractClass.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\bin\Debug\net5.0\D02_AbstractClass.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\ref\D02_AbstractClass.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C05_Polymorphism\D02_AbstractClass\obj\Debug\net5.0\D02_AbstractClass.genruntimeconfig.cache

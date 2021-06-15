@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "D01_MethodOverriding/1.0.0": {
+        "runtime": {
+          "D01_MethodOverriding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D01_MethodOverriding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
