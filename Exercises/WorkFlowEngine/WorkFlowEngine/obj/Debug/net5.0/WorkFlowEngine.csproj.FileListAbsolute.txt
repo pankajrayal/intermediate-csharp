@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\ref\WorkFlowEngine.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\ref\WorkFlowEngine.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.genruntimeconfig.cache
