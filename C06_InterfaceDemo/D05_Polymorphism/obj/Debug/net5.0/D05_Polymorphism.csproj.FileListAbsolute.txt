@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\D05_Polymorphism.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\D05_Polymorphism.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\D05_Polymorphism.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\D05_Polymorphism.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\D05_Polymorphism.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\ref\D05_Polymorphism.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\bin\Debug\net5.0\D05_Polymorphism.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\ref\D05_Polymorphism.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D05_Polymorphism\obj\Debug\net5.0\D05_Polymorphism.genruntimeconfig.cache
