@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_Testability", "D02_Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Testability.UnitTest", "02_Testability.UnitTest\02_Testability.UnitTest.csproj", "{B854E55C-51F2-4A92-A3F8-949CBA0A348D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D03_Extensibility", "D03_Extensibility\D03_Extensibility.csproj", "{7702EF2F-2B41-4AE0-A6E2-75EAC19B7D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B854E55C-51F2-4A92-A3F8-949CBA0A348D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B854E55C-51F2-4A92-A3F8-949CBA0A348D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B854E55C-51F2-4A92-A3F8-949CBA0A348D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7702EF2F-2B41-4AE0-A6E2-75EAC19B7D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7702EF2F-2B41-4AE0-A6E2-75EAC19B7D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7702EF2F-2B41-4AE0-A6E2-75EAC19B7D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7702EF2F-2B41-4AE0-A6E2-75EAC19B7D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

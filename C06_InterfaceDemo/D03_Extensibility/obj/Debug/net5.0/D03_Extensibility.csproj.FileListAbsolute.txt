@@ -1,0 +1,16 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\D03_Extensibility.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\D03_Extensibility.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\D03_Extensibility.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\D03_Extensibility.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\D03_Extensibility.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\ref\D03_Extensibility.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\bin\Debug\net5.0\D03_Extensibility.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.csprojAssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\ref\D03_Extensibility.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D03_Extensibility\obj\Debug\net5.0\D03_Extensibility.genruntimeconfig.cache
