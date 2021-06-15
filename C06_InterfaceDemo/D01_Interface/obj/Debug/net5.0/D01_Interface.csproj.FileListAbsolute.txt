@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\D01_Interface.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\D01_Interface.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\D01_Interface.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\D01_Interface.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\D01_Interface.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\ref\D01_Interface.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\bin\Debug\net5.0\D01_Interface.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\ref\D01_Interface.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D01_Interface\obj\Debug\net5.0\D01_Interface.genruntimeconfig.cache

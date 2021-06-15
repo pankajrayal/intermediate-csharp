@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\D02_Testability.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\D02_Testability.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\D02_Testability.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\D02_Testability.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\D02_Testability.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\ref\D02_Testability.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\bin\Debug\net5.0\D02_Testability.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\ref\D02_Testability.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\C06_InterfaceDemo\D02_Testability\obj\Debug\net5.0\D02_Testability.genruntimeconfig.cache
