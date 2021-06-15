@@ -1,0 +1,15 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\StackExercise.exe
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\StackExercise.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\StackExercise.runtimeconfig.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\StackExercise.runtimeconfig.dev.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\StackExercise.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\ref\StackExercise.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\bin\Debug\net5.0\StackExercise.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\ref\StackExercise.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\c#\Exercises\StackExercise\StackExercise\obj\Debug\net5.0\StackExercise.genruntimeconfig.cache
